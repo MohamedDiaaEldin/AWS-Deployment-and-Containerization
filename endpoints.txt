@@ -1,0 +1,4 @@
+domain name :   a7cf5bf9e29b34c2089956c9b312da46-811716168.us-west-1.elb.amazonaws.com
+
+auth end point : a7cf5bf9e29b34c2089956c9b312da46-811716168.us-west-1.elb.amazonaws.com/auth
+contents end point : a7cf5bf9e29b34c2089956c9b312da46-811716168.us-west-1.elb.amazonaws.com/contents
